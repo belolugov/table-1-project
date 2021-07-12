@@ -1,0 +1,31 @@
+* {
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+table, td, tr, th{
+border-style: solid;
+border-color: white;
+border-width: 2px;
+border-collapse: collapse;
+width: 100%;
+table-layout: fixed;
+}
+.header {
+    background-color: #006666;
+    color: white;
+}
+h1 {
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+th {
+    font-size: 16px;
+    font-weight: 900;
+    background-color: #75c0c0;
+    color: white;
+}
